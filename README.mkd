@@ -1,4 +1,4 @@
-xzx
+changed by xuzhixing
 
 This is the project GitForBeginners. It aims to assist the newbie to learn and use git.
 
